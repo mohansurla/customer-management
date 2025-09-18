@@ -6,14 +6,13 @@ A full-stack web application for managing customers and their addresses. Built w
 
 1. **Backend**:
 
-   - Navigate to `/backend`.
+   - Navigate to `/sever`.
    - Run `npm install`.
-   - Start the server: `node index.js`.
-   - Seed the database: `node seeder.js`.
+   - Start the server: `node run start`.
+   - Seed the database: `node run seed`.// for maually entering deatils to database
 
 2. **Frontend**:
-   - Navigate to `/frontend`.
+   - Navigate to `/client`.
    - Run `npm install`.
    - Start the dev server: `npm run dev`.
    - Access the app at `http://localhost:5173`.
-   - Run tests: `npm run test`.
