@@ -1,0 +1,13 @@
+/* src/styles/App.css */
+.app {
+  font-family: 'Roboto', sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+@media (max-width: 600px) {
+  .app {
+    padding: 8px;
+  }
+}
