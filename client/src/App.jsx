@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import Home from './pages/Home';
 import CreateCustomer from './pages/CreateCustomer';
 import CustomerDetails from './pages/CustomerDetails';
-import UpdateCustomer from './pages/UpdateAddress';
+import UpdateCustomer from './pages/UpdateCustomer';
 import MultipleAddresses from './pages/MultipleAddresses';
 import SingleAddress from './pages/SingleAddress';
 import UpdateAddress from './pages/UpdateAddress';
